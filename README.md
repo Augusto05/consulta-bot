@@ -49,10 +49,11 @@ Com o virtualenv ativado e o ChromeDriver configurado, execute:
 A janela desktop em modo escuro abrirá automaticamente.
 
 ## 📂 Estrutura do Projeto  
-consultabot.py    # Código principal (Selenium + Flet)  
-requirements.txt  # Dependências Python  
-cnpjs.txt         # Arquivo para inserir lista de CNPJs
-README.md         # Este documento
+consultabot/
+    ├── consultabot.py
+    ├── requirements.txt
+    ├── cnpjs.txt
+    └── README.md  
 
 ## 📖 Uso  
 1. Consulta por CNPJ (API):  
