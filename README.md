@@ -49,11 +49,12 @@ Com o virtualenv ativado e o ChromeDriver configurado, execute:
 A janela desktop em modo escuro abrirá automaticamente.
 
 ## 📂 Estrutura do Projeto  
-consultabot/
-    ├── consultabot.py
-    ├── requirements.txt
-    ├── cnpjs.txt
-    └── README.md  
+   
+      consultabot/
+       ├── consultabot.py     
+       ├── requirements.txt
+       ├── cnpjs.txt
+       └── README.md  
 
 ## 📖 Uso  
 1. Consulta por CNPJ (API):  
