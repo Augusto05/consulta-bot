@@ -26,9 +26,9 @@ Esta aplicação une automação de navegador (Selenium + ChromeDriver) e interf
    cd seu-repo  
 2. Crie e ative um ambiente virtual:  
    python -m venv .venv  
-   # Windows  
+   ### Windows  
    .venv\Scripts\activate  
-   # macOS/Linux  
+   ### macOS/Linux  
    source .venv/bin/activate  
 3. Instale as dependências:  
    pip install --upgrade pip  
